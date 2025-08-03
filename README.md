@@ -2,6 +2,7 @@ Arsen Stebelskyy – QA Engineer Portfolio
 ----------------------------------------
 
 "If it’s not flawless, it doesn’t ship."
+
 I break software before users can. My passion for quality assurance is driven by precision, automation, and the relentless pursuit of zero-defect releases.
 
 Welcome to my QA Engineer portfolio repository. Here, I showcase my journey in software quality engineering, featuring  automated test cases and CI/CD integrations that prove my commitment to delivering rock-solid software.
