@@ -1,11 +1,13 @@
 Arsen Stebelskyy – QA Engineer Portfolio
 ----------------------------------------
 
+Welcome to my QA Engineer portfolio repository. Here, I showcase my journey in software quality engineering, featuring  automated test cases and CI/CD integrations that prove my commitment to delivering rock-solid software.
+
 "If it’s not flawless, it doesn’t ship."
 
 I break software before users can. My passion for quality assurance is driven by precision, automation, and the relentless pursuit of zero-defect releases.
 
-Welcome to my QA Engineer portfolio repository. Here, I showcase my journey in software quality engineering, featuring  automated test cases and CI/CD integrations that prove my commitment to delivering rock-solid software.
+
 --------------------------------------------------------------------------------
 About Me
 I’m Arsen Stebelskyy, a QA Engineer with 5+ years of experience ensuring high-quality software across web and mobile applications.
@@ -38,7 +40,7 @@ Testing Strengths
 * API Testing – Postman & Swagger for RESTful service validation
 
 * Database Testing – SQL for backend and data integrity validation
-
+----------------------------------------------------------------------------
 Technical Stack
 Automation Tools: 
 * Cypress (JS), Selenium (Python)
@@ -68,5 +70,8 @@ Automated RealEstate test + API automation(POST, DELETE)
 
 https://github.com/Ars-007/Real_Estate_Project
 
+-------------------------------------------------------------------------
 Connect with Me
-Email: arsstebk@gmail.com
+Email:
+
+arsstebk@gmail.com
