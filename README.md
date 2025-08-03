@@ -40,13 +40,17 @@ Testing Strengths
 * Database Testing – SQL for backend and data integrity validation
 
 Technical Stack
-Automation Tools: Cypress (JS), Selenium (Python)
+Automation Tools: 
+* Cypress (JS), Selenium (Python)
 
-CI/CD & Version Control: GitHub Actions, Git, Jenkins
+CI/CD & Version Control: 
+* GitHub Actions, Git, Jenkins
 
-Test Management & Bug Tracking: Qase.io, Zephyr, JIRA
+Test Management & Bug Tracking: 
+* Qase.io, Zephyr, JIRA
 
-Frameworks & Practices: POM, BDD, DDT, Agile/Scrum
+Frameworks & Practices:
+* POM, BDD, DDT, Agile/Scrum
 ---------------------------------------------------------------------------
 Featured Work
 
