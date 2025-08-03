@@ -20,7 +20,17 @@ I thrive in Agile/Scrum environments, collaborating with developers, product own
 
 Skills & Expertise
 Testing Strengths
-Automation & Manual Testing – E2E, functional, integration, and regression
+Automation & Manual Testing – End-to-End (E2E) Testing, Functional Testing, 
+
+Integration Testing, Regression Testing, Smoke Testing, Sanity Testing, 
+
+Exploratory Testing, Ad-Hoc Testing, UI/UX Testing, Cross-Browser Testing, 
+
+Cross-Device/Mobile Testing, API Testing, Backend & Database Testing, 
+
+Data-Driven Testing (DDT), Boundary Testing, Negative Testing, Security Testing,
+
+Performance/Load Testing, Accessibility Testing, User Acceptance Testing (UAT)
 
 Web & Mobile Testing – Cross-platform validation with Cypress & Kobiton
 
